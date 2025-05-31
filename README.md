@@ -1,5 +1,8 @@
+<!-- GitHub Profile Header Image -->
+<img src="36143-gaming-4g.gif" alt="Masterhead" width="100%" />
 <h1 align="center">Hello World I'm Chinmoy Talukdar</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="Welcome.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmoy369&label=Profile%20views&color=6cbc80&style=plastic" alt="chinmoy369" /> </p>
 
